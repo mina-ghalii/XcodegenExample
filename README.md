@@ -23,6 +23,6 @@ making scheme in project.yml for each configuration for example: (Production, De
 
 
 ## Installation
-To install this project on your macboook write in the terminal of the project directory "make setup".
+To install this project on your macboook write in the terminal of the project directory `make setup`.
 
 
